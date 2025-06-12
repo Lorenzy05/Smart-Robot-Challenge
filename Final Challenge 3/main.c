@@ -436,7 +436,7 @@ int main() {
                 }
 
                 if (strcmp(first_cmd, "F") == 0) {
-                    Sleep(2200);
+                    Sleep(2500);
                 }
                 
 
@@ -487,7 +487,7 @@ int main() {
                 }
 
                 if (strcmp(token, "F") == 0) {
-                    Sleep(2200);
+                    Sleep(2500);
                 }
 
                 // Waiting for '+'
